@@ -1,0 +1,9 @@
+This is a python file edited
+This is the second line
+sqp_cebcce692d51a3859ef5ce9ae0fde2dc2f94bc34
+
+sonar-scanner \
+-Dsonar.projectKey=java \
+-Dsonar.sources=. \
+-Dsonar.host.url=http://3.90.148.43:9000 \
+-Dsonar.login=sqp_16dcb6ca2f18644bfae6a6fa2f1fcfd6facb0a6e
